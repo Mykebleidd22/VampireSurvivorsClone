@@ -420,6 +420,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1017267911}
+  - component: {fileID: 1017267912}
   m_Layer: 0
   m_Name: Knife Controller
   m_TagString: Untagged
@@ -442,6 +443,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1983407801}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1017267912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017267910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310255b8655e05546984d5175d6f90f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::KnifeController
+  prefab: {fileID: 3139800020155834033, guid: f55763839b0ec7e4494f0d68babcefab, type: 3}
+  speed: 12
+  cooldownDuration: 2
+  pierce: 0
 --- !u!4 &1499115184 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2700103593997254397, guid: 325747bd726b70f4c96a70f08a7c2653, type: 3}
@@ -486,6 +503,7 @@ MonoBehaviour:
   lastHorizontalVector: 0
   lastVerticalVector: 0
   moveDir: {x: 0, y: 0}
+  lastMovedVector: {x: 0, y: 0}
 --- !u!61 &1983407798
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11274,5 +11292,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
-  - {fileID: 854606577}
   - {fileID: 1983407801}
+  - {fileID: 854606577}
