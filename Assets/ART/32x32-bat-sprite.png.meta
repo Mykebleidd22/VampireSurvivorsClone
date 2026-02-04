@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -161,12 +161,12 @@ TextureImporter:
       name: 32x32-bat-sprite_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 96
-        width: 27
-        height: 13
+        x: 3
+        y: 97
+        width: 25
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: 32x32-bat-sprite_1
       rect:
         serializedVersion: 2
-        x: 34
-        y: 100
-        width: 29
-        height: 24
+        x: 35
+        y: 101
+        width: 27
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: 32x32-bat-sprite_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 106
-        width: 31
-        height: 17
+        x: 66
+        y: 107
+        width: 29
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: 32x32-bat-sprite_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 105
-        width: 32
-        height: 23
+        x: 97
+        y: 106
+        width: 31
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: 32x32-bat-sprite_4
       rect:
         serializedVersion: 2
-        x: 6
-        y: 63
-        width: 21
-        height: 17
+        x: 7
+        y: 64
+        width: 19
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: 32x32-bat-sprite_5
       rect:
         serializedVersion: 2
-        x: 40
-        y: 73
-        width: 19
-        height: 23
+        x: 41
+        y: 74
+        width: 17
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: 32x32-bat-sprite_6
       rect:
         serializedVersion: 2
-        x: 72
-        y: 74
-        width: 19
-        height: 17
+        x: 73
+        y: 75
+        width: 17
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: 32x32-bat-sprite_7
       rect:
         serializedVersion: 2
-        x: 106
-        y: 68
-        width: 17
-        height: 23
+        x: 107
+        y: 69
+        width: 15
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: 32x32-bat-sprite_8
       rect:
         serializedVersion: 2
-        x: 3
-        y: 32
-        width: 27
-        height: 14
+        x: 4
+        y: 33
+        width: 25
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: 32x32-bat-sprite_9
       rect:
         serializedVersion: 2
-        x: 34
-        y: 36
-        width: 29
-        height: 24
+        x: 35
+        y: 37
+        width: 27
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: 32x32-bat-sprite_10
       rect:
         serializedVersion: 2
-        x: 65
-        y: 44
-        width: 31
-        height: 15
+        x: 66
+        y: 45
+        width: 29
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: 32x32-bat-sprite_11
       rect:
         serializedVersion: 2
-        x: 96
-        y: 42
-        width: 32
-        height: 22
+        x: 97
+        y: 43
+        width: 31
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,12 +425,12 @@ TextureImporter:
       name: 32x32-bat-sprite_12
       rect:
         serializedVersion: 2
-        x: 5
+        x: 6
         y: 0
-        width: 21
-        height: 16
+        width: 19
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -447,12 +447,12 @@ TextureImporter:
       name: 32x32-bat-sprite_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 9
-        width: 19
-        height: 23
+        x: 38
+        y: 10
+        width: 17
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,12 +469,12 @@ TextureImporter:
       name: 32x32-bat-sprite_14
       rect:
         serializedVersion: 2
-        x: 69
-        y: 10
-        width: 19
-        height: 17
+        x: 70
+        y: 11
+        width: 17
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -491,12 +491,12 @@ TextureImporter:
       name: 32x32-bat-sprite_15
       rect:
         serializedVersion: 2
-        x: 101
-        y: 4
-        width: 17
-        height: 23
+        x: 102
+        y: 5
+        width: 15
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4e4512bbee73f1e4a912c6dfe8625b9b
     internalID: 0
     vertices: []
     indices: 
@@ -521,7 +521,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       32x32-bat-sprite_0: 4148932211056241817
       32x32-bat-sprite_1: 2373175670222840925
